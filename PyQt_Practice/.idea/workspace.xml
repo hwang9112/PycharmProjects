@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ed20972-1ba7-4a2b-910d-f69262820a99" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1WQ5vZryuU2usQHhYy2miGv5KYP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Haesung\PycharmProjects\PyQt_Practice\Ico" />
+      <recent name="C:\Users\Haesung\PycharmProjects\PyQt_Practice" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Random_Number">
+    <configuration name="PyQT_GUI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyQt_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQT_GUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Random_Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyQt_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Random_Number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Random_Number" />
+        <item itemvalue="Python.PyQT_GUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ed20972-1ba7-4a2b-910d-f69262820a99" name="Default Changelist" comment="" />
+      <created>1579069208450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579069208450</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579070939839">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="349" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1579070939839" />
+    <state width="1208" height="266" key="GridCell.Tab.0.bottom" timestamp="1579224964035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1208" height="266" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1579224964035" />
+    <state width="1208" height="266" key="GridCell.Tab.0.center" timestamp="1579224964035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1208" height="266" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1579224964035" />
+    <state width="1208" height="266" key="GridCell.Tab.0.left" timestamp="1579224964035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1208" height="266" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1579224964035" />
+    <state width="1208" height="266" key="GridCell.Tab.0.right" timestamp="1579224964035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1208" height="266" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1579224964035" />
+    <state width="681" height="328" key="GridCell.Tab.1.bottom" timestamp="1579222919039">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="681" height="328" key="GridCell.Tab.1.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1579222919039" />
+    <state width="681" height="328" key="GridCell.Tab.1.center" timestamp="1579222919038">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="681" height="328" key="GridCell.Tab.1.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1579222919038" />
+    <state width="681" height="328" key="GridCell.Tab.1.left" timestamp="1579222919038">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="681" height="328" key="GridCell.Tab.1.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1579222919038" />
+    <state width="681" height="328" key="GridCell.Tab.1.right" timestamp="1579222919038">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="681" height="328" key="GridCell.Tab.1.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1579222919038" />
+  </component>
+</project>
